@@ -10,3 +10,8 @@ delay(100);(時間)
 digitalWrite(3,HIGH);(高電位)
 delay(100);(時間)
 }
+
+
+
+圖如下:![image](https://github.com/EN-PEN/zxc/blob/master/IMG20200901142017.jpg
+)
